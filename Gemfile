@@ -10,7 +10,7 @@ gem 'pg'
 gem 'spree', git: 'https://github.com/spree/spree', branch: '0-60-stable'
 
 # Use unicorn as the web server
-# gem 'unicorn'
+gem 'unicorn'
 
 # Deploy with Capistrano
 # gem 'capistrano'
